@@ -47,7 +47,7 @@ int main(int argc, char const *argv[])
             play();
         } while (playAgain());
     }
-    std::cout << "\n---- Hasta La Vista Baby ----\n";
+    std::cout << "\n---- Hasta La Vista ----\n";
     return 0;
 }
 
